@@ -1,11 +1,13 @@
 ﻿body {
-    background-color: bisque;
+    background-color: khaki;
     background-repeat: no-repeat;
     background-attachment: scroll;
+
+    tex
 }
 
 
-h1 {
+h1  {
     color: darkcyan;
 }
 
@@ -32,19 +34,3 @@ h1 {
             background-color: #04AA6D;
             color: white;
         }
-
-.bulk{
-    background-color: burlywood;
-
-}
-
-a{
-    text-decoration: none;
-
-}
-
-.projects{
-
-}
-
-
